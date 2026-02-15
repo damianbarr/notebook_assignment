@@ -1,3 +1,3 @@
-Damian Barera
+Damian Barrera
 Data Analysis and Visualization
-This git repository contains examples of branches and pull requests. Using thesetools will help with easily modifying our notebooks for analysis.
+This git repository contains examples of branches and pull requests. Using these tools will help with easily modifying our notebooks for analysis.
